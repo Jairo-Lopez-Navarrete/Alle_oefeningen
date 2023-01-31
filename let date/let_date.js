@@ -1,0 +1,13 @@
+let date = new Array(12);
+date [0] = "dec";
+date [1] = "jan";
+date [2] = "feb";
+date [3] = "maart";
+date [4] = "apr";
+date [5] = "mei";
+date [6] = "jun";
+date [7] = "jul";
+date [8] = "aug";
+date [9] = "sep";
+date [10] = "okt";
+date [11] = "nov";

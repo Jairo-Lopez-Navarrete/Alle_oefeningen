@@ -1,0 +1,1 @@
+alert ("dit is de eerste zin." + " " + "Dit is de tweede zin." + " " + "Dit is de derde zin.");
